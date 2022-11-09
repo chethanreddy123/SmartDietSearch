@@ -1,4 +1,3 @@
-import streamlit as st
 
 import pickle
 with open('ListOfWords.pkl', 'rb') as f:
